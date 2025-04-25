@@ -29,6 +29,10 @@ export default function Home() {
           <ul>
             <li>🚀 Computer Select - Led a team of developers to build a full-stack application with Angular and SQLite, incorporating role-based access control and achieving a 4.8/5 UI/UX rating.</li>
             <li>📝 Todo App - Designed and deployed a modern React/FastAPI based Todo App featuring task creation, GraphQL integration, and API-driven intelligent suggestions.</li>
+            <a href="https://todo.zachzan.com" target="_blank" rel="noopener noreferrer">
+              <button>📝 Try My Todo App</button>
+            </a>
+
           </ul>
         </section>
 
