@@ -10,14 +10,14 @@ export default function Home() {
       
       <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
         <header style={{ marginBottom: '3rem' }}>
-          <h1>Hello, I'm Chao Zan and I have a preferred name Zach</h1>
-          <p>I'm a Full-stack Developer specializing in Front-end Development with Angular and TypeScript.</p>
+          <h1>Hello, I&apos;m Chao Zan and I have a preferred name Zach</h1>
+          <p>I&apos;m a Full-stack Developer specializing in Front-end Development with Angular and TypeScript.</p>
         </header>
 
         <section style={{ marginBottom: '2rem' }}>
           <h2>About Me</h2>
           <p>
-            I'm passionate about building scalable and user-friendly web applications.
+            I&apos;m passionate about building scalable and user-friendly web applications.
             I specialize in front-end development using Angular and TypeScript, with strong experience across the full stack.
             I have a background in quality assurance, automation testing, and collaborative Agile development.
             I thrive in fast-paced environments where continuous improvement and user-focused design are key.
